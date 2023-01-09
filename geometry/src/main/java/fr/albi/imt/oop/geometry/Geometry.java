@@ -4,6 +4,7 @@ import java.util.List;
 
 public interface Geometry {
     public List < Point > getPoints();
-    public Enveloppe getEnvelope();
+    public Envelope getEnvelope();
     
+
 }

@@ -1,13 +1,13 @@
-package fr.albi.imt.oop.geometry;
+package fr.albi.imt.oop.chat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GeometryApplication {
+public class ChatApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GeometryApplication.class, args);
+		SpringApplication.run(ChatApplication.class, args);
 	}
 
 }

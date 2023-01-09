@@ -1,4 +1,4 @@
-package fr.albi.imt.oop.geometry
+package fr.albi.imt.oop.geometry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

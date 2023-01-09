@@ -1,4 +1,4 @@
-package fr.albi.imt.oop.geometry;
+package meanonn.chat;
 
 import org.keycloak.adapters.springboot.KeycloakSpringBootConfigResolver;
 import org.springframework.context.annotation.Bean;
